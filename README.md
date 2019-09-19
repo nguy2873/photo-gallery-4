@@ -1,1 +1,1 @@
-# photo_galler
+# photo_gallery
